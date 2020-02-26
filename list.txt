@@ -34,3 +34,44 @@ CCTV-央视台球 SD,http://42.48.60.248:8082/live/ystq-800k.m3u8
 CCTV-卫生健康 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
 CCTV-央视文化精品 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000046.m3u8
 卫星频道,#genre#
+湖南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+江苏卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+浙江卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+东方卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+四川卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+北京卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+广东卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+山东卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+天津卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+东南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+黑龙江卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+湖北卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+江西卫视 FHD,http://hls.globaliptv.ml/myguizhou.php?id=jiangxiweishihd
+辽宁卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+重庆卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+安徽卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+河北卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+河南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+贵州卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+广西卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+峨眉电影-1 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+峨眉电影-2 FHD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8
+海南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
+云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+新疆卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
+康巴卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+海峡卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
+山西卫视 SD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_wrbc04ks_original_r10/c214_scc_20190618_wrbc04ks_original_r10.m3u8
+宁夏卫视 SD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_tfzeigwy_original_r10/c212_scc_20190618_tfzeigwy_original_r10.m3u8
+内蒙古卫视 SD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_mgfhomhn_original_r10/c213_scc_20190618_mgfhomhn_original_r10.m3u8
+青海卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
+西藏卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
+兵团卫视 (暂失效),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
+C.4K频道
+CCTV 4K 流畅版,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
+CCTV 4K 高码率,http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+BesTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
