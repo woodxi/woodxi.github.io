@@ -71,7 +71,73 @@ CCTV-央视文化精品 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype
 青海卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
 西藏卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
 兵团卫视 (暂失效),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-C.4K频道
+4K频道,#genre#
 CCTV 4K 流畅版,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
 CCTV 4K 高码率,http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 BesTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+数字电视,#genre#
+求索记录 FHD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+新视觉 FHD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8
+快乐垂钓 FHD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8
+欢笑剧场 FHD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8
+都市剧场 FHD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8
+生活时尚 FHD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8
+极速汽车 FHD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8
+动漫秀场 FHD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8
+中华美食 SD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_ewbvlwno_original_r10/c212_scc_20190618_ewbvlwno_original_r10.m3u8
+天元围棋 SD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190620_i2oihge1_original_r10/c212_scc_20190620_i2oihge1_original_r10.m3u8
+先锋乒羽 SD,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8
+游戏竞技 SD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_4ztlh52w_original_r10/c211_scc_20190618_4ztlh52w_original_r10.m3u8
+摄影频道 SD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_jljxba4l_original_r10/c212_scc_20190618_jljxba4l_original_r10.m3u8
+江苏靓装 SD,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8
+环球奇观 SD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8
+家庭理财 SD,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8
+四海垂钓 SD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_sbsingex_original_r10/c213_scc_20190618_sbsingex_original_r10.m3u8
+CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
+CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
+CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
+DOX剧场,#genre#
+DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+华数TV剧场,#genre#
+华数FHD-01,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+华数FHD-02,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+华数FHD-03,【】http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
+华数FHD-04,http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
+华数FHD-05,http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
+华数FHD-06,http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
+华数FHD-07,http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
+华数FHD-08,http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
+华数FHD-09,http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
+华数FHD-10,http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
+华数FHD-11,http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
+华数FHD-12,http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
+华数FHD-13,http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
+华数FHD-15,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+华数HD-01,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+华数HD-02,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
+华数HD-03,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+华数HD-04,http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+华数HD-05,http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+华数HD-06,http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+华数HD-07,http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+华数HD-08,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+华数HD-09,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
+华数HD-10,http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+华数HD-11,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+华数HD-12,http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
+华数HD-13,http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
+华数HD-14,http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
+华数HD-15,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+华数HD-16,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+华数HD-17,http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+华数HD-18,http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+华数HD-19,http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+华数HD-20,http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
+华数HD-21,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+华数HD-22,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+华数HD-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
