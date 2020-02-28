@@ -23,7 +23,6 @@ CCTV-兵器科技 SD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_adb
 CCTV-第一剧场 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
 CCTV-发现之旅 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000099.m3u8
 CCTV-风云剧场 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000047.m3u8
-CCTV-风云音乐 SD,
 CCTV-风云足球 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvfengyunzuqiu
 CCTV-高尔夫网球 HD,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d
 CCTV-怀旧剧场 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000048.m3u8
