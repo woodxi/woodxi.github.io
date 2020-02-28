@@ -70,10 +70,6 @@ CCTV-央视文化精品 SD,http://stream.slave.jxtvnet.tv:14311/playurl?playtype
 青海卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
 西藏卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
 兵团卫视 (暂失效),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-4K频道,#genre#
-CCTV 4K 流畅版,http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
-CCTV 4K 高码率,http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
-BesTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 数字电视,#genre#
 求索记录 FHD,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 新视觉 FHD,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8
