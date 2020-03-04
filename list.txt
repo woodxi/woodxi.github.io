@@ -1,3 +1,11 @@
+央视频道备用,#genre#
+CCTV1,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8?time=1583326632141
+CCTV2,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+CCTV3,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203801.m3u8
+CCTV-5,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-6高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-8高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 央视频道,#genre#
 CCTV-1 综合 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2 财经 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
