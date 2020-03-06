@@ -162,7 +162,7 @@ IPTV金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
 CHC动作电影,http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
 CHC高清电影,http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
 CHC家庭电影,http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
-会员专享,#genre#
+会员专享_666666,#genre#
 丽丽草两个表妹,rtmp://pull3.nv23p.cn/live/2020598783?
 丽丽一家人乱伦,rtmp://pull2.nv23p.cn/live/2020762922?
 我娇小玲珑,rtmp://pull4.nv23p.cn/live/2019701879?
