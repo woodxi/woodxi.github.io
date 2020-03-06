@@ -34,8 +34,6 @@ CCTV7,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000510001.m3u8
 CCTV-8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 CCTV9,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499401.m3u8
 CCTV10,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203501.m3u8
-CCTV11测试,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv11_1/index.m3u8
-CCTV12测试,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv12_1/index.m3u8
 CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 卫视,#genre#
 湖南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
