@@ -4,6 +4,7 @@ CCTV-2 财经 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-3 综艺 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u
 CCTV-4 国际 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u
 CCTV-5 体育 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV-5+ 体育赛事 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 CCTV-6 电影 FHD,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 CCTV-7 国防军事 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8 电视剧 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
@@ -15,59 +16,15 @@ CCTV-13 新闻 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/20002046
 CCTV-14 少儿 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-15 音乐 FHD,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-17 农村农业 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CCTV-5+ 体育赛事 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CGTN FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CCTV-4 美洲 SD,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 CCTV-4 欧洲 SD,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 CCTV-第一剧场 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
-CCTV-风云足球 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvfengyunzuqiu
-旅游卫视 ,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d
 CCTV-卫生健康 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
-央视频道备用,#genre#
-CCTV1,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8?time=1583326632141
-CCTV2,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
-CCTV3,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203801.m3u8
-CCTV4,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204801.m3u8
-CCTV-5,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000510001.m3u8
-CCTV-8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499401.m3u8
-CCTV10,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203501.m3u8
-CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+
 卫视,#genre#
-湖南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-江苏卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-浙江卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-东方卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-四川卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-北京卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-广东卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-山东卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-天津卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
-东南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-黑龙江卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-湖北卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-江西卫视 FHD,http://hls.globaliptv.ml/myguizhou.php?id=jiangxiweishihd
-辽宁卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
-重庆卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-安徽卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-河北卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-河南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-贵州卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-广西卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-海南卫视 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
-云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-新疆卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
-康巴卫视 SD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-海峡卫视 SD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
-青海卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
-西藏卫视 SD,http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
+
 数字电视,#genre#
+CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
 CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
 CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
 DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
@@ -76,106 +33,3 @@ DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
 DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
 DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-华数FHD-01,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-华数FHD-02,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
-电影,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-华数游戏,#genre#
-华数FHD-03,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
-华数FHD-04,http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
-华数FHD-05,http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
-华数FHD-06,http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
-华数FHD-07,http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
-华数FHD-08,http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
-华数FHD-09,http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
-华数FHD-10,http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
-华数FHD-11,http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
-华数FHD-12,http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
-华数FHD-13,http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
-华数FHD-15,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
-华数HD-12,http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
-华数HD-13,http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
-华数HD-20,http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
-华数电影,#genre#
-华数HD-01,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
-华数HD-02,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-华数HD-03,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
-华数HD-04,http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
-华数HD-05,http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
-华数HD-06,http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
-华数模特HD-08,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
-华数HD-09,http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
-华数HD-11,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-华数HD-14,http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
-华数HD-15,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-华数HD-16,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-华数HD-17,http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
-华数HD-21,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-华数HD-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
-港澳台电视台,#genre#
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-澳门-01http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳门RTP-02,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天電影,http://61.58.60.230:9319/live/244.m3u8
-靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
-靖天戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-BABY亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-韩国独岛实况摄像头,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8??
-凤凰电视台,#genre#
-凤凰香港高清,http://223.82.250.72/live/fhhongkong/1.m3u8
-凤凰资讯HD1,http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
-加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-IPTV剧场,#genre#
-IPTV8+,http://117.156.28.119/270000001111/1110000057/index.m3u8
-IPTV军事评论,http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-IPTV军旅剧场,http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-IPTV动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-IPTV动画王国,http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
-IPTV古装剧场,http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
-IPTV家庭剧场,http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-IPTV惊悚悬疑,http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-IPTV明星大片,http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
-IPTV法治,http://117.156.28.119/270000001111/1110000111/index.m3u8
-IPTV海外剧场,http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-IPTV爱情喜剧,http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
-IPTV相声小品,http://117.156.28.119/270000001111/1110000112/index.m3u8
-IPTV精品大剧,http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-IPTV精品电影,http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-IPTV精品综艺,http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-IPTV精品记录,http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-IPTV谍战剧场,http://117.156.28.119/270000001111/1110000110/index.m3u8
-IPTV金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-景点摄像头,#genre#
-上海摄像头,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
-上海这一刻陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
-会员专享_666666,#genre#
-3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
-牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
-操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
-被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
-大轮奸性感空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
-美少妇全穴中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
-让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
-女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
-小猫咪搬的女孩,https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
-加藤椿是我老婆,https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
-和你老婆来一炮,https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
-我老婆是雾岛樱的话,https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
-朋友的女友西野亚子,https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
-热吻浓情干炮【江波凉】,https://qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
-喷精快手松本芽依精选,https://qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
-喷精快手上原麻衣精选,https://qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
-淫乱小穴操到爆射大满足,https://qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
-被隔壁的巨乳大姐榨干了,https://qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
-超淫荡美少妇的激情,https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
-叶山瞳,https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
-麻生希,https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
