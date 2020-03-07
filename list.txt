@@ -1,28 +1,46 @@
 央视频道,#genre#
-CCTV-1 综合 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2 财经 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-1 综合 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV-2 财经 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV-3 综艺 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u
-CCTV-4 国际 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u
-CCTV-5 体育 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-5+ 体育赛事 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6 电影 FHD,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-CCTV-7 国防军事 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-8 电视剧 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-9 纪录 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10 科教 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u
-CCTV-11 戏曲 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-CCTV-12 社会与法 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13 新闻 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-4 国际 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-5 体育 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV-6 电影 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV-7 国防军事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-8 电视剧 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV-9 纪录 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-10 科教 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV-11 戏曲 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-12 社会与法 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-13 新闻 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-14 少儿 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV-15 音乐 FHD,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-CCTV-17 农村农业 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-15 音乐 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-17 农村农业 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-5+ 体育赛事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 CCTV-4 美洲 SD,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 CCTV-4 欧洲 SD,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 CCTV-第一剧场 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
 CCTV-卫生健康 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
-
 卫视,#genre#
-
+江苏卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+浙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+湖南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+北京卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+东方卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+山东卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+天津卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+四川卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+东南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+河北卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+河南卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+重庆卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+深圳卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+湖北卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+贵州卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+广西卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+广东卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+辽宁卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+黑龙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 数字电视,#genre#
 CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
 CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
@@ -33,3 +51,64 @@ DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
 DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
 DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+欧美频道,#genre#
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+会员专享电影_666666888888,#genre#
+少女潘金莲,https://f3.pddbao.com/201907/27/qPPmszIk/2200kb/hls/index.m3u8
+女潘金莲,https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
+兼差女郎,https://f4.xorboy.com/201909/30/Iu5i4LKP/2200kb/hls/index.m3u8
+挡不住的风情,https://f4.xorboy.com/201908/21/lhp8sASC/2200kb/hls/index.m3u8
+偷窥无罪,https://f3.pddbao.com/201908/21/R9jGj32y/2200kb/hls/index.m3u8
+兽性新人类2,https://f3.pddbao.com/201908/21/azFDskwY/2200kb/hls/index.m3u8
+杨贵妃淫史,https://f3.pddbao.com/201908/21/Z4mHOxYN/2200kb/hls/index.m3u8
+倩女销魂,https://f3.pddbao.com/201908/18/81IRBHYZ/2200kb/hls/index.m3u8
+竹夫人,https://f3.pddbao.com/201908/07/PtMnxUUh/2200kb/hls/index.m3u8
+北妹皇后,https://f3.pddbao.com/201908/07/F5X6m1PA/2200kb/hls/index.m3u8
+哪个少女不多情,https://f3.pddbao.com/201908/07/qWGFxzwK/2200kb/hls/index.m3u8
+非分熟女,https://f3.pddbao.com/201908/04/pNRNHGYW/2200kb/hls/index.m3u8
+色降,https://f3.pddbao.com/201908/04/uwKwwNjl/2200kb/hls/index.m3u8
+色降之血玫瑰,https://f3.pddbao.com/201908/04/jDJhmEwM/2200kb/hls/index.m3u8
+色即是空【前篇】,https://qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
+色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
+色降二万里驱魔,https://f3.pddbao.com/201908/04/na8R2J12/2200kb/hls/index.m3u8
+伊波拉病毒,https://f3.pddbao.com/201908/03/RzjYDPmv/2200kb/hls/index.m3u8
+齐天大性大破盘丝洞,https://f3.pddbao.com/201908/01/lq4sJafe/2200kb/hls/index.m3u8
+勾魂恶梦,https://f3.pddbao.com/201908/01/L3hA8QQe/2200kb/hls/index.m3u8
+强奸案中案,https://f3.pddbao.com/201908/01/TgE65EjT/2200kb/hls/index.m3u8
+淫欲十八招,https://f3.pddbao.com/201907/29/eTwVtHEX/800kb/hls/index.m3u8
+伟哥的故事,https://f3.pddbao.com/201907/27/T2LmfqgK/2200kb/hls/index.m3u8
+三十儿立,https://f3.pddbao.com/201907/27/HlkkOA7B/2200kb/hls/index.m3u8
+血恋2,https://f3.pddbao.com/201907/22/ygYzHdMc/2200kb/hls/index.m3u8
+妲己性爱传,https://f3.pddbao.com/201907/02/EdnINKyK/2200kb/hls/index.m3u8
+赤裸天使,https://f1.pddbao.com/201812/04/DnAfV5GO/1200kb/hls/index.m3u8
+赤裸羔羊,https://f1.pddbao.com/201812/04/9yuUrE7U/1200kb/hls/index.m3u8
+南洋第一邪降,https://f1.pddbao.com/201812/04/9YIME4k7/800kb/hls/index.m3u8
+南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
+唐朝豪放女,https://f1.pddbao.com/201812/04/xx18ZiaN/1200kb/hls/index.m3u8
+不扣纽的女孩,https://f1.pddbao.com/201811/08/RqewdsS1/800kb/hls/index.m3u8
+夏日狂情,https://f1.pddbao.com/201812/03/3q6DINji/1200kb/hls/index.m3u8
+新金瓶梅2008/1,https://f1.pddbao.com/201811/26/K4roNt32/1200kb/hls/index.m3u8
+新金瓶梅2008/2,https://f1.pddbao.com/201811/27/CWUEO2cj/1200kb/hls/index.m3u8
+新金瓶梅1996/3,https://f1.pddbao.com/201811/26/9j0j6mtB/1200kb/hls/index.m3u8
+新金瓶梅1996/4,https://f1.pddbao.com/201811/26/rl8GXbL0/1200kb/hls/index.m3u8
+新金瓶梅1996/5,https://f1.pddbao.com/201811/26/3NQulG3H/1200kb/hls/index.m3u8
+金瓶梅【上集】,https://qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
+金瓶梅【下集】,https://qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
+玉女心经,https://f1.pddbao.com/201811/15/jtyCpMJE/1200kb/hls/index.m3u8
+一路向西,https://f1.pddbao.com/201811/22/MvpHa81T/1200kb/hls/index.m3u8
+蜜桃成熟时1,https://f1.pddbao.com/201811/16/noBLP9S5/1200kb/hls/index.m3u8
+蜜桃成熟时2,https://f1.pddbao.com/201811/17/Og50PsyY/1200kb/hls/index.m3u8
+蜜桃成熟时3,https://f1.pddbao.com/201811/17/IUeSUASx/1200kb/hls/index.m3u8
+喜爱夜蒲1,https://f1.pddbao.com/201811/16/HzoKNctn/1200kb/hls/index.m3u8
+喜爱夜蒲2,https://f1.pddbao.com/201811/16/XUpWre7f/1200kb/hls/index.m3u8
+3d肉蒲团,https://f1.pddbao.com/201811/16/iw2QkuPV/1200kb/hls/index.m3u8
+玉蒲团之云雨山庄,https://f1.pddbao.com/201811/15/hPi33s5N/1000kb/hls/index.m3u8
+玉蒲团之初入桃源洞,https://f1.pddbao.com/201811/15/OvWGkaXZ/1200kb/hls/index.m3u8
+玉蒲团之淫乱英雄,https://f1.pddbao.com/201811/15/weyT1tTY/1200kb/hls/index.m3u8
+玉蒲团之官人我要,https://f1.pddbao.com/201811/15/1abMk82r/1200kb/hls/index.m3u8
+玉蒲团之阳物性教,https://f1.pddbao.com/201811/15/MyjHGvIq/1000kb/hls/index.m3u8
+玉蒲团之偷情宝鉴,https://f1.pddbao.com/201811/14/JPsBrjhM/1200kb/hls/index.m3u8
+满清十大酷刑,https://f1.pddbao.com/201811/12/LjuYBsWH/1200kb/hls/index.m3u8
+满清十大酷刑1,https://f1.pddbao.com/201811/08/OBxQSwv0/800kb/hls/index.m3u8
+同班同学,https://f1.pddbao.com/201811/08/75TG6Huc/1200kb/hls/index.m3u8
