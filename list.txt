@@ -51,6 +51,10 @@ DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
 DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
 DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
 DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+海外音乐频道,#genre#
+俄罗斯 I HP 音乐频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+俄罗斯 I RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+乌克兰 I M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 欧美频道,#genre#
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
