@@ -50,14 +50,31 @@ DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
 DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
 DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
 DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
-海外音乐频道,#genre#
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuah
+电影频道,#genre#
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+欧美新闻,#genre#
+FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+美国 I 布兰奇电视,http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+美国 I 美国中央台,ttp://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+俄罗斯 I 军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
+新马 I 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+NBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+欧美音乐,#genre#
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+俄罗斯 I HD 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+意大利 I V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
+法国 I 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+法国 I 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+印度 I 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+俄罗斯 I FM 音乐频道,http://rtmp.one.by:1200
+俄罗斯 I OR 音乐频道,http://rtmp.one.by:2200/
 俄罗斯 I HP 音乐频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 俄罗斯 I RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 乌克兰 I M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
-欧美频道,#genre#
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 Fashion,#genre#
 Fashion TV 01,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 Fashion TV 02,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
