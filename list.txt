@@ -104,7 +104,8 @@ ID Fashion01,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3
 ID Fashion02,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
 ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
+桃花族_666666888888,#genre#
+骚货妹妹诱惑看片哥哥,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/12/501a9e55/index.m3u8
 会员专享电影_666666888888,#genre#
 少女潘金莲,https://f3.pddbao.com/201907/27/qPPmszIk/2200kb/hls/index.m3u8
 女潘金莲,https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
