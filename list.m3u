@@ -35,3 +35,45 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 group-title="央视频道",CCTV-5+体育
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="",江苏卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 group-title="",浙江卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 group-title="",湖南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 group-title="",北京卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 group-title="",东方卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 group-title="",山东卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 group-title="",天津卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+#EXTINF:-1 group-title="",四川卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 group-title="",安徽卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 group-title="",东南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 group-title="",河北卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 group-title="",河南卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 group-title="",重庆卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 group-title="",深圳卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 group-title="",湖北卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 group-title="",贵州卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1 group-title="",广西卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 group-title="",广东卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 group-title="",辽宁卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 group-title="",黑龙江卫视
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+
