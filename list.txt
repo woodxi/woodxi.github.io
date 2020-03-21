@@ -105,6 +105,7 @@ ID Fashion02,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m
 ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 会员专享电影_666666888888,#genre#
+测试,http://aliboa.dyns.cx:99/uploads/media/chengren/[ThZu.Cc]SexArt---Loving-Touch-1080.mp4
 骚货妹妹诱惑看片哥哥,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/12/501a9e55/index.m3u8
 杨幂,https://hl4.lhav46.com/video/m3u8/201911/30/2e5dbb015d5a/playlist.m3u8?1584535738000
 欧阳娜娜,https://xyt1.lhav46.com/video/m3u8/201911/30/3a378bbe3712/playlist.m3u8?1584535735000
