@@ -2,20 +2,20 @@
 CCTV-1 综合 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-2 财经 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3 综艺 FHD,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-4 国际 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-4 国际 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5 体育 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-6 电影 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV-7 国防军事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7 国防军事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8 电视剧 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 CCTV-9 纪录 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10 科教 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV-10 科教 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV-11 戏曲 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV-12 社会与法 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-12 社会与法 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV-13 新闻 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV-14 少儿 FHD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV-14 少儿 FHD,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15 音乐 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV-17 农村农业 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CCTV-5+ 体育赛事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-17 农村农业 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-5+ 体育赛事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#
 CCTV-4 美洲 SD,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 CCTV-4 欧洲 SD,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 CCTV-第一剧场 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
@@ -42,6 +42,7 @@ CCTV-卫生健康 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiank
 辽宁卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 黑龙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 数字电视,#genre#
+周星驰,http://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
 CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
 CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
@@ -105,17 +106,6 @@ ID Fashion02,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m
 ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 会员专享电影_666666888888,#genre#
-两女01,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]nubilefilms_just_her_luck_1920.mp4
-两女02,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]Revenge%20Sex%20Tape%20With%20My%20BFF_1080p.mp4
-两女03,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]SexArt---Loving-Touch-1080.mp4
-两女04,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]SexArt---Would-You-Like-To-1080.mp4
-两女05,http://aliboa.cn/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(1).mp4
-两女06,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(3).mp4
-两女07,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(6).mp4
-两女08,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(7).mp4
-两女09,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%8F%E5%A7%91%E5%A8%98.mp4
-两女10,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E6%AC%A7%E7%BE%8E%E4%B8%89%E5%A5%B3%E5%90%8C%E6%80%A7.mp4
-
 骚货妹妹诱惑看片哥哥,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/12/501a9e55/index.m3u8
 杨幂,https://hl4.lhav46.com/video/m3u8/201911/30/2e5dbb015d5a/playlist.m3u8?1584535738000
 欧阳娜娜,https://xyt1.lhav46.com/video/m3u8/201911/30/3a378bbe3712/playlist.m3u8?1584535735000
