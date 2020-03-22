@@ -18,8 +18,6 @@ CCTV-17 农村农业 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.c
 CCTV-5+ 体育赛事 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#
 CCTV-4 美洲 SD,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 CCTV-4 欧洲 SD,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-CCTV-第一剧场 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
-CCTV-卫生健康 SD,http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
 卫视,#genre#
 江苏卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 浙江卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
@@ -105,96 +103,5 @@ ID Fashion01,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3
 ID Fashion02,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
 ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-会员专享电影_666666888888,#genre#
-
-两女01,http://aliboa.cn/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]nubilefilms_just_her_luck_1920.mp4
-两女02,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]Revenge%20Sex%20Tape%20With%20My%20BFF_1080p.mp4
-两女03,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]SexArt---Loving-Touch-1080.mp4
-两女04,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/[ThZu.Cc]SexArt---Would-You-Like-To-1080.mp4
-两女05,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(1).mp4
-两女06,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(3).mp4
-两女07,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(6).mp4
-两女08,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%91%E5%A5%B3%20(7).mp4
-两女09,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%80%A7%E5%B0%8F%E5%A7%91%E5%A8%98.mp4
-两女10,http://aliboa.dyns.cx:98/uploads/media/%E4%BF%84%E7%BD%97%E6%96%AF/%E6%AC%A7%E7%BE%8E%E4%B8%89%E5%A5%B3%E5%90%8C%E6%80%A7.mp4
-
-骚货妹妹诱惑看片哥哥,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/12/501a9e55/index.m3u8
-杨幂,https://hl4.lhav46.com/video/m3u8/201911/30/2e5dbb015d5a/playlist.m3u8?1584535738000
-欧阳娜娜,https://xyt1.lhav46.com/video/m3u8/201911/30/3a378bbe3712/playlist.m3u8?1584535735000
-刘亦菲自慰,https://xyt1.lhav46.com/video/m3u8/201912/10/7d585a6f47ac/playlist.m3u8?1584535698000
-佟丽娅,https://cdn77.lhav79.com/video/m3u8/201912/10/3d4106d55d0a/playlist.m3u8?1584535674000
-杨颖,https://cdn77.lhav79.com/video/m3u8/201912/10/3edd7a25fcbe/playlist.m3u8?1584535639000
-美少妇勾引管,http://c1.ckcdn2000.com:12345/video/m3u8/2020/03/07/a77cda9f/index.m3u8
-阿姨勾引外甥乱,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/07/7e64d03b/index.m3u8
-尾随女主播,http://c1.ckcdn2000.com:12345/video/m3u8/2020/03/07/2df17995/index.m3u8
-小偷遇到回家的空姐,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/07/7215c229/index.m3u8
-极品美女跟男友车震流出,http://v1.ckcdn2001.com:12346/video/m3u8/2020/03/08/840a7d5a/index.m3u8
-变态宅男哥哥与性欲高涨妹妹,http://c1.ckcdn2000.com:12345/video/m3u8/2020/03/07/c19957d0/index.m3u8
-鼠哥大战36D网红妹子,http://z1.ckcdn2002.com:12342/video/m3u8/2020/03/12/a8b36646/index.m3u8
-闷骚人妻勾引快递员,http://c1.ckcdn2000.com:12345/video/m3u8/2020/03/07/b1b215b8/index.m3u
-朋友的姐姐,http://c1.ckcdn2000.com:12345/video/m3u8/2020/03/07/0b05d007/index.m3u8
-波多野结衣,https://cdn88.lhav79.com/video/m3u8/201912/09/7a6cc148848f/playlist.m3u8?1584534864000
-波多野结衣有码2,https://xyt1.lhav46.com/video/m3u8/201912/08/4086cdc76221/playlist.m3u8?1584535076000
-波多野结衣邻居有码3,https://hl3.lhav46.com/video/m3u8/201912/09/f12f951b052f/playlist.m3u8?1584535081000
-波多野结衣,https://xyt1.lhav46.com/video/m3u8/201912/07/6c1949deff2c/playlist.m3u8?1584535085000
-日本,https://xyt1.lhav46.com/video/m3u8/202003/17/9651b57fb38d/playlist.m3u8?1584535604000
-日本乳神京香,https://lsj2.lhav46.com/video/m3u8/202002/24/96b8164896ea/playlist.m3u8?1584535024000
-吉泽明步,https://hl3.lhav46.com/video/m3u8/201912/09/93e1dae57720/playlist.m3u8?1584535028000
-欧美不玩游戏玩我,https://cdn99.lhav79.com/video/m3u8/201912/03/161924f3aaf4/playlist.m3u8?1584535386000
-少女潘金莲,https://f3.pddbao.com/201907/27/qPPmszIk/2200kb/hls/index.m3u8
-女潘金莲,https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
-兼差女郎,https://f4.xorboy.com/201909/30/Iu5i4LKP/2200kb/hls/index.m3u8
-挡不住的风情,https://f4.xorboy.com/201908/21/lhp8sASC/2200kb/hls/index.m3u8
-偷窥无罪,https://f3.pddbao.com/201908/21/R9jGj32y/2200kb/hls/index.m3u8
-兽性新人类2,https://f3.pddbao.com/201908/21/azFDskwY/2200kb/hls/index.m3u8
-杨贵妃淫史,https://f3.pddbao.com/201908/21/Z4mHOxYN/2200kb/hls/index.m3u8
-倩女销魂,https://f3.pddbao.com/201908/18/81IRBHYZ/2200kb/hls/index.m3u8
-竹夫人,https://f3.pddbao.com/201908/07/PtMnxUUh/2200kb/hls/index.m3u8
-北妹皇后,https://f3.pddbao.com/201908/07/F5X6m1PA/2200kb/hls/index.m3u8
-哪个少女不多情,https://f3.pddbao.com/201908/07/qWGFxzwK/2200kb/hls/index.m3u8
-非分熟女,https://f3.pddbao.com/201908/04/pNRNHGYW/2200kb/hls/index.m3u8
-色降,https://f3.pddbao.com/201908/04/uwKwwNjl/2200kb/hls/index.m3u8
-色降之血玫瑰,https://f3.pddbao.com/201908/04/jDJhmEwM/2200kb/hls/index.m3u8
-色即是空【前篇】,https://qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
-色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
-色降二万里驱魔,https://f3.pddbao.com/201908/04/na8R2J12/2200kb/hls/index.m3u8
-伊波拉病毒,https://f3.pddbao.com/201908/03/RzjYDPmv/2200kb/hls/index.m3u8
-齐天大性大破盘丝洞,https://f3.pddbao.com/201908/01/lq4sJafe/2200kb/hls/index.m3u8
-勾魂恶梦,https://f3.pddbao.com/201908/01/L3hA8QQe/2200kb/hls/index.m3u8
-强奸案中案,https://f3.pddbao.com/201908/01/TgE65EjT/2200kb/hls/index.m3u8
-淫欲十八招,https://f3.pddbao.com/201907/29/eTwVtHEX/800kb/hls/index.m3u8
-伟哥的故事,https://f3.pddbao.com/201907/27/T2LmfqgK/2200kb/hls/index.m3u8
-三十儿立,https://f3.pddbao.com/201907/27/HlkkOA7B/2200kb/hls/index.m3u8
-血恋2,https://f3.pddbao.com/201907/22/ygYzHdMc/2200kb/hls/index.m3u8
-妲己性爱传,https://f3.pddbao.com/201907/02/EdnINKyK/2200kb/hls/index.m3u8
-赤裸天使,https://f1.pddbao.com/201812/04/DnAfV5GO/1200kb/hls/index.m3u8
-赤裸羔羊,https://f1.pddbao.com/201812/04/9yuUrE7U/1200kb/hls/index.m3u8
 南洋第一邪降,https://f1.pddbao.com/201812/04/9YIME4k7/800kb/hls/index.m3u8
 南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
-唐朝豪放女,https://f1.pddbao.com/201812/04/xx18ZiaN/1200kb/hls/index.m3u8
-不扣纽的女孩,https://f1.pddbao.com/201811/08/RqewdsS1/800kb/hls/index.m3u8
-夏日狂情,https://f1.pddbao.com/201812/03/3q6DINji/1200kb/hls/index.m3u8
-新金瓶梅2008/1,https://f1.pddbao.com/201811/26/K4roNt32/1200kb/hls/index.m3u8
-新金瓶梅2008/2,https://f1.pddbao.com/201811/27/CWUEO2cj/1200kb/hls/index.m3u8
-新金瓶梅1996/3,https://f1.pddbao.com/201811/26/9j0j6mtB/1200kb/hls/index.m3u8
-新金瓶梅1996/4,https://f1.pddbao.com/201811/26/rl8GXbL0/1200kb/hls/index.m3u8
-新金瓶梅1996/5,https://f1.pddbao.com/201811/26/3NQulG3H/1200kb/hls/index.m3u8
-金瓶梅【上集】,https://qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
-金瓶梅【下集】,https://qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
-玉女心经,https://f1.pddbao.com/201811/15/jtyCpMJE/1200kb/hls/index.m3u8
-一路向西,https://f1.pddbao.com/201811/22/MvpHa81T/1200kb/hls/index.m3u8
-蜜桃成熟时1,https://f1.pddbao.com/201811/16/noBLP9S5/1200kb/hls/index.m3u8
-蜜桃成熟时2,https://f1.pddbao.com/201811/17/Og50PsyY/1200kb/hls/index.m3u8
-蜜桃成熟时3,https://f1.pddbao.com/201811/17/IUeSUASx/1200kb/hls/index.m3u8
-喜爱夜蒲1,https://f1.pddbao.com/201811/16/HzoKNctn/1200kb/hls/index.m3u8
-喜爱夜蒲2,https://f1.pddbao.com/201811/16/XUpWre7f/1200kb/hls/index.m3u8
-3d肉蒲团,https://f1.pddbao.com/201811/16/iw2QkuPV/1200kb/hls/index.m3u8
-玉蒲团之云雨山庄,https://f1.pddbao.com/201811/15/hPi33s5N/1000kb/hls/index.m3u8
-玉蒲团之初入桃源洞,https://f1.pddbao.com/201811/15/OvWGkaXZ/1200kb/hls/index.m3u8
-玉蒲团之淫乱英雄,https://f1.pddbao.com/201811/15/weyT1tTY/1200kb/hls/index.m3u8
-玉蒲团之官人我要,https://f1.pddbao.com/201811/15/1abMk82r/1200kb/hls/index.m3u8
-玉蒲团之阳物性教,https://f1.pddbao.com/201811/15/MyjHGvIq/1000kb/hls/index.m3u8
-玉蒲团之偷情宝鉴,https://f1.pddbao.com/201811/14/JPsBrjhM/1200kb/hls/index.m3u8
-满清十大酷刑,https://f1.pddbao.com/201811/12/LjuYBsWH/1200kb/hls/index.m3u8
-满清十大酷刑1,https://f1.pddbao.com/201811/08/OBxQSwv0/800kb/hls/index.m3u8
-同班同学,https://f1.pddbao.com/201811/08/75TG6Huc/1200kb/hls/index.m3u8
