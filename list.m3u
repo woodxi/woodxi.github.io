@@ -31,14 +31,17 @@ http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农村农业
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 ,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="",新唐人-美西频道
-http://live.ntdimg.com/uwlive520/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="",NewTV农业致富
 http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-5+体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5+体育
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="央视频道",国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://www.aliboa.cn/uploads/allimg/200320/1-200320131028-50-lp.jpg" group-title="卫视频道",江苏卫视高清
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
@@ -81,10 +84,51 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://www.aliboa.cn/uploads/allimg/200320/1-200320211242-57-lp.jpg" group-title="卫视频道",黑龙江卫视
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_贺岁影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_欢乐剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_惊悚午夜场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_动画电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_温情影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_周末影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_权谋剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_经典重温
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_谍战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_军旅剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_收视冠军
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_抗战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="",新唐人-美西频道
+http://live.ntdimg.com/uwlive520/playlist.m3u8?
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+000000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备1)
-rtmp://58.200.131.2:1935/livetv/fhzw
+00000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备2)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备3)
@@ -92,7 +136,7 @@ http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备4)
 http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
-http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+0000000
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯(备1)
 http://125.210.152.21:9090/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯(备2)
@@ -100,7 +144,7 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯(备3)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台频道",凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+000000000000
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港台频道",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港台频道",无线新闻(备)
@@ -115,30 +159,16 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台频道",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视频道",CHC高清电影
-rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭电影
-rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视频道",CHC动作电影
-rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台频道",凤凰电影台
-rtmp://58.200.131.2:1935/livetv/fhdy
+000000000000000000000
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台频道",星空卫视
-rtmp://58.200.131.2:1935/livetv/startv
+000000000000000000000
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台频道",探索频道
-rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+0000000000000000000000000
 #EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="港台频道",信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 tvg-id="6105" tvg-name="台湾艺术台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TACT.png" group-title="港台频道",台湾艺术
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+0000000000000000000000000000
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台频道",三立新闻
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台频道",民视
@@ -150,31 +180,55 @@ http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港台频道",年代新闻
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台频道",八大综合台
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+0000000000000000000000
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台频道",中天综合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港台频道",中天娱乐
-http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+000000000000000000000000000
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台频道",东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+00000000000000000000000000
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港台频道",东森电影
-http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+000000000000000000000000
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港台频道",东森洋片
-http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+00000000000000000000000000
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="轮播电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="轮播电影",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港台频道",好莱坞电影
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港台频道",动物星球
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="港台频道",WarnerTV
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港台频道",国家地理
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
+
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="港台频道",FOX动作电影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台频道",反馈交流群
-http://51buy.giize.com/1.mp4
 #EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX轮播",DOX院线
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX轮播",DOX雅趣
@@ -190,23 +244,23 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad2
 #EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX轮播",DOX映画
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 #EXTINF:-1 tvg-id="100003" tvg-name="鬼影特工" tvg-logo="https://i.loli.net/2019/12/17/PozKAeqw2Xp9uCk.jpg" group-title="佳片赏析",鬼影特工
-https://patient-bread-bb31.bbsok.workers.dev/鬼影特工.6.underground.2019.internal.1080p.web.x264-strife.mkv
+000000000000000000000
 #EXTINF:-1 tvg-id="100005" tvg-name="爱尔兰人" tvg-logo="https://i.loli.net/2019/12/17/NhRLeib4Zsaol8x.jpg" group-title="佳片赏析",爱尔兰人
-https://patient-bread-bb31.bbsok.workers.dev/The.Irishman.2019.1080p.NF.WEB-DL.DDP5.1.ATMOS.H264-CMRG.mkv
+0000000000000000
 #EXTINF:-1 tvg-id="100002" tvg-name="唐顿庄园" tvg-logo="https://i.loli.net/2019/12/17/CbaMiYp3EDuUOv8.jpg" group-title="佳片赏析",唐顿庄园
-https://patient-bread-bb31.bbsok.workers.dev/Downton.Abbey.2019.1080p.BluRay.DTS-HD.MA.7.1.x265-10bit-HDS.mkv
+00000000000000000000000000
 #EXTINF:-1 tvg-id="100004" tvg-name="续命之徒" tvg-logo="https://i.loli.net/2019/12/17/QilLXtwU194HP7R.jpg" group-title="佳片赏析",续命之徒
-https://patient-bread-bb31.bbsok.workers.dev/El.Camino.A.Breaking.Bad.Movie.2019.1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC-MZABI.mkv
+000000000000000000
 #EXTINF:-1 tvg-id="100001" tvg-name="我和我的祖国" tvg-logo="https://i.loli.net/2019/12/17/EPfpqj3gvtIrKLk.jpg" group-title="佳片赏析",我和我的祖国
 https://snowy-term-29dd.usabbsok.workers.dev/My.People.My.Country.2019.2160p.WEB-DL.H265.DDP5.1-OurTV.mkv
 #EXTINF:-1 tvg-id="100006" tvg-name="JOKER" tvg-logo="https://i.loli.net/2019/12/18/K9VocgJADqtfhr8.jpg" group-title="佳片赏析",JOKER
-https://shrill-wind-4420.edubbsok.workers.dev/Joker.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+00000000000000000000000000
 #EXTINF:-1 tvg-id="100007" tvg-name="JOKER" tvg-logo="https://i.loli.net/2019/12/20/aU72bJ6xR3ZCp4i.png"  group-title="佳片赏析",热气球飞行家
 https://red-mud-57e2.mandaluo.workers.dev/The.Aeronauts.2019.1080p.AMZN.WEBRip.DD5.1.x264-FGT.mkv
 #EXTINF:-1 tvg-id="100008" tvg-name="宗教的传承" tvg-logo="https://i.loli.net/2019/12/21/ycnCxu4eK2vw9jS.jpg"  group-title="佳片赏析",教宗的承继
 https://broad-king-f11f.bsok.workers.dev/the.two.popes.2019.internal.1080p.web.x264-strife.mkv
 #EXTINF:-1 tvg-id="100009" tvg-name="婚姻故事" tvg-logo="https://i.loli.net/2019/12/29/QRDhJL2CwZWETs4.jpg"  group-title="佳片赏析",婚姻故事
-https://shrill-wind-4420.edubbsok.workers.dev/marriage.story.2019.internal.1080p.web.x264-strife.mkv
+00000000000000000000000000000000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第1集
 http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
