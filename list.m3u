@@ -110,7 +110,8 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_108
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_抗战剧场
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="爱奇艺轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="爱奇艺轮播",爱奇艺_热播电视剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
 
 
 
@@ -123,10 +124,10 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="",新唐人-美西频道
+
+
+#EXTINF:-1 tvg-id="141" tvg-name="新唐人-美西频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",新唐人-美西频道
 http://live.ntdimg.com/uwlive520/playlist.m3u8?
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
-000000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备1)
 00000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备2)
