@@ -315,3 +315,23 @@ Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1
 南洋第一邪降,https://f1.pddbao.com/201812/04/9YIME4k7/800kb/hls/index.m3u8
 南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
 
+直播间,#genre#
+
+
+直播1,https://edge286.stream.highwebmedia.com/live-hls/amlst:yesonee-sd-0d39015d31f480b8979ebdb50c560fa2a3f18e2deeaeac237200a248e0e62ac1_trns_h264/chunklist_w583047284_b448000_t64RlBTOjMwLjA=.m3u8
+
+直播2,https://edge161.stream.highwebmedia.com/live-hls/amlst:cute_dami-sd-5fa9af666b6904c6b6297ca87567818503c8f179ea7fb7973187ff88760d754d_trns_h264/playlist.m3u8
+
+直播3,https://edge287.stream.highwebmedia.com/live-hls/amlst:angelina_new-sd-febbd5b782aeb4c715667ff9547f525688d4a02789a4edd17bf1309e8a0a0a89_trns_h264/playlist.m3u8
+
+直播4,https://edge287.stream.highwebmedia.com/live-hls/amlst:angelina_new-sd-febbd5b782aeb4c715667ff9547f525688d4a02789a4edd17bf1309e8a0a0a89_trns_h264/playlist.m3u8
+
+直播5,https://edge159.stream.highwebmedia.com/live-hls/amlst:doloresshaze-sd-e52e0a2f355b52f3c14e4fe069848664214fbf70326a9e56b9f84109528b5d57_trns_h264/playlist.m3u8
+
+视频,https://hls4-l3.xvideos-cdn.com/8560074cedba2649af86ee0b7900c1ab719dd575-1585669097/videos/hls/50/06/55/50065590a18edfded860481fbaa9458c/hls-720p.m3u8,
+
+视频4,https://hls3-l3.xvideos-cdn.com/a6726cd43d5ea12ba20e2f0d5890cfb109ca0a11-1585669103/videos/hls/d3/dc/4d/d3dc4d0d2dd1e0cb4a2a2a05e28b4866/hls-720p-e5e65.m3u8,
+
+001,https://hls-hw.xvideos-cdn.com/videos/hls/11/4e/c2/114ec246a3eb30ff20e06f4fc20ebd04/hls-360p-bcc2d.m3u8?e=1585669517&l=0&h=0bd0b204b26a7189e9ffc431dd01a24b,
+
+
