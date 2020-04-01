@@ -135,19 +135,8 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 
 
 
-明星电影,#genre#
-成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
-刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-,李连杰电影
-,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-斯坦森电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+
+
 
 
 
@@ -183,6 +172,18 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 
 
 电影轮播,#genre#
+周星驰,http://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+李连杰电影,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+斯坦森电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
@@ -210,7 +211,17 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 电影轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
-
+CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
+CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
+CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
+DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuah
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 
 港澳台国际,#genre#
@@ -248,20 +259,7 @@ BesTV4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 
-数字电视,#genre#
-周星驰,http://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
-CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
-CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
-DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuah
-电影频道,#genre#
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
 欧美新闻,#genre#
 FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
@@ -314,24 +312,3 @@ ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 南洋第一邪降,https://f1.pddbao.com/201812/04/9YIME4k7/800kb/hls/index.m3u8
 南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
-
-直播间,#genre#
-
-
-直播1,https://edge286.stream.highwebmedia.com/live-hls/amlst:yesonee-sd-0d39015d31f480b8979ebdb50c560fa2a3f18e2deeaeac237200a248e0e62ac1_trns_h264/chunklist_w583047284_b448000_t64RlBTOjMwLjA=.m3u8
-
-直播2,https://edge161.stream.highwebmedia.com/live-hls/amlst:cute_dami-sd-5fa9af666b6904c6b6297ca87567818503c8f179ea7fb7973187ff88760d754d_trns_h264/playlist.m3u8
-
-直播3,https://edge287.stream.highwebmedia.com/live-hls/amlst:angelina_new-sd-febbd5b782aeb4c715667ff9547f525688d4a02789a4edd17bf1309e8a0a0a89_trns_h264/playlist.m3u8
-
-直播4,https://edge287.stream.highwebmedia.com/live-hls/amlst:angelina_new-sd-febbd5b782aeb4c715667ff9547f525688d4a02789a4edd17bf1309e8a0a0a89_trns_h264/playlist.m3u8
-
-直播5,https://edge159.stream.highwebmedia.com/live-hls/amlst:doloresshaze-sd-e52e0a2f355b52f3c14e4fe069848664214fbf70326a9e56b9f84109528b5d57_trns_h264/playlist.m3u8
-
-视频,https://hls4-l3.xvideos-cdn.com/8560074cedba2649af86ee0b7900c1ab719dd575-1585669097/videos/hls/50/06/55/50065590a18edfded860481fbaa9458c/hls-720p.m3u8,
-
-视频4,https://hls3-l3.xvideos-cdn.com/a6726cd43d5ea12ba20e2f0d5890cfb109ca0a11-1585669103/videos/hls/d3/dc/4d/d3dc4d0d2dd1e0cb4a2a2a05e28b4866/hls-720p-e5e65.m3u8,
-
-001,https://hls-hw.xvideos-cdn.com/videos/hls/11/4e/c2/114ec246a3eb30ff20e06f4fc20ebd04/hls-360p-bcc2d.m3u8?e=1585669517&l=0&h=0bd0b204b26a7189e9ffc431dd01a24b,
-
-
