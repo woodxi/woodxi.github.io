@@ -1,27 +1,65 @@
 央视频道,#genre#
-CCTV-1综合HD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2财经,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-4国际,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5体育,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-6电影,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV-7军事农业,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-8高清,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-9纪录,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10科教,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-11戏曲,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV-12社会与法,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13新闻,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-1综合HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+
+
+CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+
+CCTV-3综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+
+
+CCTV-4国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+
+
+CCTV-5体育,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+
+
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+
+
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+
+CCTV-8高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+
+
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+
+CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+
+
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+
+CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV-17农村农业,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+
+CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+
 NewTV农业致富,http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-CCTV-5+体育,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+
+
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+
+
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+
+
 央视蓝光,#genre#
-CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-1蓝光,
+CCTV-2蓝光,
+CCTV-3综艺,
 CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
@@ -135,8 +173,19 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 
 
 
-
-
+明星电影,#genre#
+成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+,李连杰电影
+,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+斯坦森电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 
 
 
@@ -172,18 +221,6 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 
 
 电影轮播,#genre#
-周星驰,http://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
-刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-李连杰电影,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-斯坦森电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
@@ -211,17 +248,7 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 电影轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
-CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
-CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
-CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
-DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
-DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
-DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
-DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
-DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
-DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuah
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
 
 
 港澳台国际,#genre#
@@ -259,7 +286,20 @@ BesTV4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 
-
+数字电视,#genre#
+周星驰,http://al.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+CBN每日影院 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
+CBN幸福剧场 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
+CBN风尚生活 FHD,http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
+DOX新知 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+DOX新艺 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+DOX怡家 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+DOX英伦 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+DOX院线 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+DOX映画 FHD,http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuah
+电影频道,#genre#
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 欧美新闻,#genre#
 FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
@@ -312,3 +352,4 @@ ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 南洋第一邪降,https://f1.pddbao.com/201812/04/9YIME4k7/800kb/hls/index.m3u8
 南洋十大邪术,https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
+
