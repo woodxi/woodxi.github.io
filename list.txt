@@ -1,100 +1,68 @@
 央视频道,#genre#
-CCTV-1综合HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#
-CCTV-1综合HD,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV-1综合HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8 
 
-CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+CCTV-2财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://ivi.bupt.edu.cn/hls/cctv2.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 
 
 CCTV-3综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 
 
-CCTV-4国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-4国际,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 
 
-CCTV-5体育,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV-5体育,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
 
 
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6.m3u8#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
-CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8 
 
 
-CCTV-8高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+CCTV-8高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8#http://ivi.bupt.edu.cn/hls/cctv8.m3u8#http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
-CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8 
 
 
-CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-10科教,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv10.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 
 
-CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8 
 
 
-CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV-12社会与法,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://ivi.bupt.edu.cn/hls/cctv12.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8 
 
 
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 
 
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8 
 
 
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8 
+
+CCTV-16奥运频道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 
-CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+CCTV-高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
 
 
 NewTV农业致富,http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
 
 
-CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+
 
 
 国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
 
-央视蓝光,#genre#
-CCTV-1蓝光,
-CCTV-2蓝光,
-CCTV-3综艺,
-CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-CCTV-7蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-10蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-CCTV-11蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-CCTV-15蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CCTV-17蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-央视蓝光备用,#genre#
-CCTV-1综合,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8 
-CCTV-2财经,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-4中文国际,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5体育,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
-CCTV-5+体育赛事,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
-CCTV-6电影,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-7国防军事,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8 
-CCTV-8电视剧,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-9记录,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8 
-CCTV-10科教,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-11戏曲,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8 
-CCTV-12社会与法,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8 
-CCTV-13新闻,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
-CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8 
-CCTV-15音乐,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8 
-CCTV-16奥运频道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-CCTV-17农村农业,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CCTV-高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+
 
 
 地方卫视,#genre#
