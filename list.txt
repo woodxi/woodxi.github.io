@@ -19,7 +19,6 @@ CCTV-16奥运频道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17农村农业,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 CHC,#genre#
-韩国,https://hls3-l3.xvideos-cdn.com/702e763313ef07f8ed59c61077a19ba12c6accd9-1586527475/videos/hls/2b/8e/93/2b8e93c1bec1e5a651a6a5cb9f69f9bf-1/hls-720p.m3u8
 CHC-高清电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 CHC-家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC-动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
@@ -354,6 +353,7 @@ ID Fashion03,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m
 Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 4K会员专享_666888,#genre#
+韩国,https://hls3-l3.xvideos-cdn.com/702e763313ef07f8ed59c61077a19ba12c6accd9-1586527475/videos/hls/2b/8e/93/2b8e93c1bec1e5a651a6a5cb9f69f9bf-1/hls-720p.m3u8
 自己玩振动器,https://19-18.b.cdn13.com/hls/014/077/224/2160p.h264.mp4/index.m3u8?cdn_creation_time=1586008800&cdn_ttl=14400&cdn_cv_data=210.0.159.70&cdn_hash=57aec9b7a8cff341a042354fefce071e
 俩女玩振动棒,https://1-308-19-12.b.cdn13.com/hls/014/037/501/2160p.h264.mp4/seg-7-v1-a1.ts?cdn_creation_time=1586008800&cdn_ttl=14400&cdn_cv_data=210.0.159.70&cdn_hash=0775cb06423eff35c4aee65a201871fe
 群女海滩,https://1-391-19-18.b.cdn13.com/hls/014/062/616/2160p.h264.mp4/seg-7-v1-a1.ts?cdn_creation_time=1586008800&cdn_ttl=14400&cdn_cv_data=210.0.159.70&cdn_hash=4029c78b3074e2c413a2c6c6ce3364b5
