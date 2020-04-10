@@ -19,6 +19,7 @@ CCTV-16奥运频道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17农村农业,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-高清,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
 CHC,#genre#
+韩国,https://hls3-l3.xvideos-cdn.com/702e763313ef07f8ed59c61077a19ba12c6accd9-1586527475/videos/hls/2b/8e/93/2b8e93c1bec1e5a651a6a5cb9f69f9bf-1/hls-720p.m3u8
 CHC-高清电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 CHC-家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC-动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
