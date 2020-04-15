@@ -789,3 +789,7 @@ vip_666888,#genre#
 日本有码,https://www.yxsapi.com/20200217/b7LRult7/index.m3u8
 新人大学生,https://www.yxsapi.com/20200329/9FiGyCXu/index.m3u8
 温泉旅馆,https://www.yxsapi.com/20200324/b5xg6BNh/index.m3u8
+02,http://aliboa.dyns.cx:98/uploads/media/oumei/02.mp4
+bangshang69,http://aliboa.dyns.cx:98/uploads/media/oumei/%E7%BB%91%E4%B8%8A69%E5%B0%84%E6%B6%B2.mp4
+junfang,http://aliboa.dyns.cx:98/uploads/media/oumei/junfang.mp4
+03,http://aliboa.dyns.cx:98/uploads/media/oumei/03.mp4
