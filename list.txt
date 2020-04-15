@@ -29,7 +29,12 @@ CCTV 发现之旅,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=cctvfxzl
 CCTV 世界地理,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=cctvsjdl
 CCTV 4K超高清,http://www.itvi.vip/cctv.php?id=2000266303
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-
+测试,#genre#
+美国广播公司,https://peer3.ustv24h.live/ABC/myStream/chunks.m3u8?nimblesessionid=15060387&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjE6NDkgUE0maGFzaF92YWx1ZT1JVVlFQWpwdTJaSDJidDZwUzdYa09RPT0mdmFsaWRtaW51dGVzPTI0MA==
+霍尔马克影业,https://peer7.ustv24h.live/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjM6NTkgUE0maGFzaF92YWx1ZT1lNWhrNUh4YkphTFZXNVdUNzJ6VDlRPT0mdmFsaWRtaW51dGVzPTI0MA==
+AMC,https://peer7.ustv24h.live/AMC/myStream/chunks.m3u8?nimblesessionid=90098&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjM6NTQgUE0maGFzaF92YWx1ZT0yYThBN1F2L3Y1NHptSGFLSTBtUFl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+迪士尼频道,https://peer1.ustv24h.live/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6MjY6NDUgUE0maGFzaF92YWx1ZT1sdW4yT2ZzV3NWQjBMWkcyallNbSt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+迪士尼XD,https://peer3.ustv24h.live/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIwIDE6Mjc6MjggUE0maGFzaF92YWx1ZT1iclc5RTBLdmJPUisrTE5PeWI3TTl3PT0mdmFsaWRtaW51dGVzPTI0MA==
 卫视,#genre#
 重庆卫视,http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8#https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8#http://www.itvi.vip/cctv.php?id=2000297803#http://player.200877926.top/17/hubei/hbgdm3u8.php?id=chongqinghd#http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8#http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://mrw.so/4o0dZf?dsjtv.m3u8#http://mrw.so/5dX9Ny?dsjtv.m3u8
 重庆新闻,http://onsitecdn.cbgcloud.com/4zjt2a/zb7nip.m3u8
