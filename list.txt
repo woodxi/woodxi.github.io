@@ -451,10 +451,7 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 刘德华电影,http://aldirect.rtmp.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 洪金宝电影,http://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
 
-舞曲   DSJ,#genre#
-耳机听→更爽◢,http://dsjtv.m3u8
-音响听→更爽◢,http://dsjtv.m3u8
-不定期→更新◢,http://dsjtv.m3u8
+舞曲,#genre#
 小娟 ◆ 爱的路上千万里DJ,https://jxpan.vip/file/48606/mCk24stA/小娟_爱的路上千万里DJ.mp4
 陈瑞 ◆ 念旧的人最容易掉眼泪DJ,https://jxpan.vip/file/48606/Ct6DlfNS/陈瑞_念旧的人最容易掉眼泪DJ.mp4
 东方晴儿 ◆ 再见吧我最爱的你DJ,https://jxpan.vip/file/48606/E3Pictiw/东方晴儿_再见吧我最爱的你DJ.mp4
@@ -517,7 +514,7 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 魏新雨 ◆ 为你祈祷DJ,https://jxpan.vip/file/48606/9OeDhPqy/魏新雨_为你祈祷DJ.mp4
 龚玥菲 ◆ 夜上海DJ,https://jxpan.vip/file/48606/merb9P1J/龚玥菲_夜上海DJ.mp4
 
-音乐   DSJ,#genre#
+音乐,#genre#
 丛书 ◆ 不变的情缘,https://jxpan.vip/file/48606/9H5pNy1X/丛书_不变的情缘.mp4
 小爱 ◆ 留不住变心的你,https://jxpan.vip/file/48606/aO2OOGwS/小爱_留不住变心的你.mkv
 刘晓 ◆ 天在下雨我在恨你,https://jxpan.vip/file/48606/tVWYGdku/刘晓_天在下雨我在恨你.mp4
@@ -569,9 +566,6 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 陈俐绢 ◆ 下定决心忘记你,https://jxpan.vip/file/48606/Ni5Peixg/陈俐绢_下定决心忘记你.mp4
 
 剧集   DSJ,#genre#
-向右滑→快进◢,http://dsjtv.m3u8
-不定期→更新◢,http://dsjtv.m3u8
-■■■■■■■■,http://dsjtv.m3u8
 [全05集] ↓ ↓,http://dsjtv.m3u8
 01与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/ylF4Is7I/01与郎共舞_1991温碧霞_TVB香港.mkv
 02与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/fPrXReJj/02与郎共舞_1991温碧霞_TVB香港.mkv
@@ -579,151 +573,9 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 04与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/QUmWC0Ax/04与郎共舞_1991温碧霞_TVB香港.mkv
 05与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/xSTr9PRO/05与郎共舞_1991温碧霞_TVB香港.mkv
 ■■■■■■■■,http://dsjtv.m3u8
-[全08集] ↓ ↓,http://dsjtv.m3u8
-01白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/SQa5XesN/01白骨阴阳剑_1989吴茜薇_ATV香港.mkv
-02白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/x4FuL0bG/02白骨阴阳剑_1989吴茜薇_ATV香港.mkv
-03白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/gYHGheiz/03白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
-04白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/JOylx3YO/04白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
-05白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/Rw44XpuE/05白骨阴阳剑_1989吴茜薇_ATV香港.mkv
-06白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/mbC0I74Q/06白骨阴阳剑_1989吴茜薇_ATV香港.mkv
-07白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/I6cSJ68f/07白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
-08白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/hqdAGFkt/08白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
-■■■■■■■■,http://dsjtv.m3u8
-[全26集] ↓ ↓,http://dsjtv.m3u8
-01王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/iCYGA1NB/01王保长新编_2004李保田.mkv
-02王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/b8OUMIfy/02王保长新编_2004李保田.mkv
-03王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/XG22gBdU/03王保长新编_2004李保田.mkv
-04王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/bWxuCmAf/04王保长新编_2004李保田.mkv
-05王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/1gvC1Tk9/05王保长新编_2004李保田.mkv 
-06王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/tkhzK0u4/06王保长新编_2004李保田.mkv 
-07王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Kp4Mv3Jb/07王保长新编_2004李保田.mkv
-08王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/zpYmWXkb/08王保长新编_2004李保田.mkv
-09王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/kpRRB3js/09王保长新编_2004李保田.mkv 
-10王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/ESGOtRMR/10王保长新编_2004李保田.mkv
-11王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Squ8RAuO/11王保长新编_2004李保田.mkv
-12王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Q4to91wT/12王保长新编_2004李保田.mkv
-13王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/t0h0Owrq/13王保长新编_2004李保田.mkv
-14王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/fDmGIJVa/14王保长新编_2004李保田.mkv 
-15王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Oatxcczh/15王保长新编_2004李保田.mkv 
-16王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/b3JdKB7P/16王保长新编_2004李保田.mkv
-17王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Yu0a33Y7/17王保长新编_2004李保田.mkv 
-18王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/atm1Czxr/18王保长新编_2004李保田.mkv 
-19王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/sOfwXhbN/19王保长新编_2004李保田.mkv
-20王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/aaJM6OL4/20王保长新编_2004李保田.mkv
-21王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/X9d3ucbh/21王保长新编_2004李保田.mkv 
-22王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/LRtU4f1T/22王保长新编_2004李保田.mkv 
-23王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/A5chkEww/23王保长新编_2004李保田.mkv
-24王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/fRgdll5w/24王保长新编_2004李保田.mkv 
-25王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/HG2ds7SX/25王保长新编_2004李保田.mkv
-26王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/a1X5eoS7/26王保长新编_2004李保田.mkv 
-■■■■■■■■,http://dsjtv.m3u8
-[全10集] ↓ ↓,http://dsjtv.m3u8
-01东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/7B22Erl8/01东京仙履奇缘_1994日本.mkv 
-02东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/D7fdtkb1/02东京仙履奇缘_1994日本.mkv 
-03东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/LISYrHkh/03东京仙履奇缘_1994日本.mkv 
-04东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/4UuGgKID/04东京仙履奇缘_1994日本.mkv 
-05东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/5eRi8NhU/05东京仙履奇缘_1994日本.mkv 
-06东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/KnbHsPXO/06东京仙履奇缘_1994日本.mkv
-07东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/a2m5W4Kn/07东京仙履奇缘_1994日本.mkv
-08东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/wOdgklbk/08东京仙履奇缘_1994日本.mkv 
-09东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/Psipunxi/09东京仙履奇缘_1994日本.mkv 
-10东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/qCqeuBpL/10东京仙履奇缘_1994日本.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全20集] ↓ ↓,http://dsjtv.m3u8
-01武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/gwE2zTg7/01武林幸运星_1992温兆伦_TVB香港.mkv
-02武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/v6yi3iOR/02武林幸运星_1992温兆伦_TVB香港.mkv
-03武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/thzz54Dg/03武林幸运星_1992温兆伦_TVB香港.mkv
-04武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/Ol4GnUIy/04武林幸运星_1992温兆伦_TVB香港.mkv
-05武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/cn5KFzFj/05武林幸运星_1992温兆伦_TVB香港.mkv
-06武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/gjAjXvMN/06武林幸运星_1992温兆伦_TVB香港.mkv
-07武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/5B9J3va7/07武林幸运星_1992温兆伦_TVB香港.mkv
-08武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/nWdqTcGq/08武林幸运星_1992温兆伦_TVB香港.mkv
-09武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/LLRotlIw/09武林幸运星_1992温兆伦_TVB香港.mkv
-10武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/b1f90cQp/10武林幸运星_1992温兆伦_TVB香港.mkv
-11武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/doDcQOC5/11武林幸运星_1992温兆伦_TVB香港.mkv
-12武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7MB6M5yv/12武林幸运星_1992温兆伦_TVB香港.mkv
-13武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/5NSoaFGY/13武林幸运星_1992温兆伦_TVB香港.mkv
-14武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/DrJQiiXr/14武林幸运星_1992温兆伦_TVB香港.mkv
-15武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7EA4KG5U/15武林幸运星_1992温兆伦_TVB香港.mkv
-16武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/suH6SaV8/16武林幸运星_1992温兆伦_TVB香港.mkv
-17武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/2TUlTc9q/17武林幸运星_1992温兆伦_TVB香港.mkv
-18武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7KPu49S4/18武林幸运星_1992温兆伦_TVB香港.mkv
-19武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/PvjuMnez/19武林幸运星_1992温兆伦_TVB香港.mkv
-20武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/W2d7NDhG/20武林幸运星_1992温兆伦_TVB香港.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全05集] ↓ ↓,http://dsjtv.m3u8
-01青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/dRIyFQnb/01青锋剑影_1984苗侨伟_TVB香港.mkv
-02青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/uPUQMBGP/02青锋剑影_1984苗侨伟_TVB香港.mkv
-03青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/dBjN1tlx/03青锋剑影_1984苗侨伟_TVB香港.mkv
-04青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/cRYgaOtz/04青锋剑影_1984苗侨伟_TVB香港.mkv
-05青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/0BOz7WUW/05青锋剑影_1984苗侨伟_TVB香港.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全05集] ↓ ↓,http://dsjtv.m3u8
-01碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/KCtyoupn/01碧血洗银枪_1984陶大宇_TVB香港.mkv
-02碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/68crqxzM/02碧血洗银枪_1984陶大宇_TVB香港.mkv
-03碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/PzFVOEdG/03碧血洗银枪_1984陶大宇_TVB香港.mkv
-04碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/unXsNrDd/04碧血洗银枪_1984陶大宇_TVB香港.mkv
-05碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/5J7gGbVq/05碧血洗银枪_1984陶大宇_TVB香港.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全08集] ↓ ↓,http://dsjtv.m3u8
-01天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/dW22OepD/01天剑绝刀_1989周秀兰_ATV香港.mkv
-02天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/67DXAVh2/02天剑绝刀_1989周秀兰_ATV香港.mkv
-03天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/Rbp8bovS/03天剑绝刀_1989周秀兰_ATV香港.mkv
-04天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/nqjNzfAS/04天剑绝刀_1989周秀兰_ATV香港.mkv
-05天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/QdUkXbOp/05天剑绝刀_1989周秀兰_ATV香港.mkv
-06天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/4gz9ebmc/06天剑绝刀_1989周秀兰_ATV香港.mkv
-07天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/RKtj15xu/07天剑绝刀_1989周秀兰_ATV香港.mkv
-08天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/zczr2Xe5/08天剑绝刀_1989周秀兰_ATV香港.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全20集] ↓ ↓,http://dsjtv.m3u8
-01浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/4jhQehE1/01浣花洗剑录_1976张国荣_ATV香港.mkv
-02浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/jXraHRx7/02浣花洗剑录_1976张国荣_ATV香港.mkv
-03浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/HOqMJLB8/03浣花洗剑录_1976张国荣_ATV香港.mkv
-04浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/DDWgDISd/04浣花洗剑录_1976张国荣_ATV香港.mkv
-05浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/fcd1VYbd/05浣花洗剑录_1976张国荣_ATV香港.mkv
-06浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/2HJROJsA/06浣花洗剑录_1976张国荣_ATV香港.mkv
-07浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/YxyP4MX8/07浣花洗剑录_1976张国荣_ATV香港.mkv
-08浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/DH6r0xTR/08浣花洗剑录_1976张国荣_ATV香港.mkv
-09浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/yNhUPfnr/09浣花洗剑录_1976张国荣_ATV香港.mkv
-10浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/9BxHxlV3/10浣花洗剑录_1976张国荣_ATV香港.mkv
-11浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/WtKyA6Rk/11浣花洗剑录_1976张国荣_ATV香港.mkv
-12浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/ojSoTya7/12浣花洗剑录_1976张国荣_ATV香港.mkv
-13浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/g4PO3EA5/13浣花洗剑录_1976张国荣_ATV香港.mkv
-14浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/FqKb1lp8/14浣花洗剑录_1976张国荣_ATV香港.mkv
-15浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/fVdBHga1/15浣花洗剑录_1976张国荣_ATV香港.mkv
-16浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/xoLMmAMV/16浣花洗剑录_1976张国荣_ATV香港.mkv
-17浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/OOXlluYd/17浣花洗剑录_1976张国荣_ATV香港.mkv
-18浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/a7XxXIV5/18浣花洗剑录_1976张国荣_ATV香港.mkv
-19浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/4dDI3TeO/19浣花洗剑录_1976张国荣_ATV香港.mkv
-20浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/Tym9UwvE/20浣花洗剑录_1976张国荣_ATV香港.mkv
-■■■■■■■■,http://dsjtv.m3u8
-[全22集] ↓ ↓,http://dsjtv.m3u8
-01遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/7wrlR5Qz/01遗失的世界_第二部_欧美.mkv
-02遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Hk4bPXEk/02遗失的世界_第二部_欧美.mkv
-03遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/vxl1GWFy/03遗失的世界_第二部_欧美.mkv
-04遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/GGTOS9qX/04遗失的世界_第二部_欧美.mkv
-05遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/OJjQTvh9/05遗失的世界_第二部_欧美.mkv
-06遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/UXXi5N7N/06遗失的世界_第二部_欧美.mkv
-07遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/SfYhXnxA/07遗失的世界_第二部_欧美.mkv
-08遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/DtKOHjiT/08遗失的世界_第二部_欧美.mkv
-09遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/nA0lgdRx/09遗失的世界_第二部_欧美.mkv
-10遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/8LNPt2BX/10遗失的世界_第二部_欧美.mkv
-11遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Cx73YxRr/11遗失的世界_第二部_欧美.mkv
-12遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/lO6jbC9o/12遗失的世界_第二部_欧美.mkv
-13遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/zPyy43lT/13遗失的世界_第二部_欧美.mkv
-14遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/rm7c5Nly/14遗失的世界_第二部_欧美.mkv
-15遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/S1055p9a/15遗失的世界_第二部_欧美.mkv
-16遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/jalAzhAf/16遗失的世界_第二部_欧美.mkv
-17遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Q89FSyC2/17遗失的世界_第二部_欧美.mkv
-18遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/hhAfTvUE/18遗失的世界_第二部_欧美.mkv
-19遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/c3axpA0b/19遗失的世界_第二部_欧美.mkv
-20遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/YvJLdgRh/20遗失的世界_第二部_欧美.mkv
-21遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/M676HxO5/21遗失的世界_第二部_欧美.mkv
-22遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/G8l8rRIe/22遗失的世界_第二部_欧美.mkv
 
-电影   DSJ,#genre#
-向右滑→快进◢,http://dsjtv.m3u8
-不定期→更新◢,http://dsjtv.m3u8
+
+电影,#genre#
 大陆 ◆ 活着 ◆ 1994葛优,https://jxpan.vip/file/48606/QohsOYlS/大陆_活着_1994葛优.mkv
 香港 ◆ 街女 ◆ 1982李赛凤,https://jxpan.vip/file/48606/YHy051dN/香港_街女_1982李赛凤.mkv
 香港 ◆ 跛豪 ◆ 1991吕良伟,https://jxpan.vip/file/48606/gQtIzqDG/香港_跛豪_1991吕良伟.mkv
