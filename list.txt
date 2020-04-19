@@ -637,6 +637,8 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 
 
 vip_666888,#genre#
+002,https://hls4-l3.xvideos-cdn.com/c24801b9180d213a40b282e2f45b6b546cc3af66-1587290606/videos/hls/d4/89/78/d489780b2f0d9f2c39898664c5e33a7d/hls-720p.m3u8
+001,https://hls3-l3.xvideos-cdn.com/7e8143e1593a2cc52190318f115e55387025711d-1587294272/videos/hls/6a/2f/32/6a2f322460ce1a934f4f05892ad23622/hls-720p-e5c13.m3u8
 国产各种道具,https://www.yxsapi.com/20200228/zsGFJbu7/index.m3u8
 日本有码,https://www.yxsapi.com/20200217/b7LRult7/index.m3u8
 新人大学生,https://www.yxsapi.com/20200329/9FiGyCXu/index.m3u8
