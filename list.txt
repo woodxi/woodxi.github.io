@@ -637,16 +637,7 @@ TVBS 新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 
 
 vip_666888,#genre#
-002,https://hls4-l3.xvideos-cdn.com/c24801b9180d213a40b282e2f45b6b546cc3af66-1587290606/videos/hls/d4/89/78/d489780b2f0d9f2c39898664c5e33a7d/hls-720p.m3u8
-001,https://hls3-l3.xvideos-cdn.com/7e8143e1593a2cc52190318f115e55387025711d-1587294272/videos/hls/6a/2f/32/6a2f322460ce1a934f4f05892ad23622/hls-720p-e5c13.m3u8
-国产各种道具,https://www.yxsapi.com/20200228/zsGFJbu7/index.m3u8
-日本有码,https://www.yxsapi.com/20200217/b7LRult7/index.m3u8
-新人大学生,https://www.yxsapi.com/20200329/9FiGyCXu/index.m3u8
-温泉旅馆,https://www.yxsapi.com/20200324/b5xg6BNh/index.m3u8
-02,http://aliboa.dyns.cx:98/uploads/media/oumei/02.mp4
-bangshang69,http://aliboa.dyns.cx:98/uploads/media/oumei/%E7%BB%91%E4%B8%8A69%E5%B0%84%E6%B6%B2.mp4
-junfang,http://aliboa.dyns.cx:98/uploads/media/oumei/junfang.mp4
-03,http://aliboa.dyns.cx:98/uploads/media/oumei/03.mp4
+小嫩妹尖叫,http://t1.cdn2020.com:12345/video/m3u8/2019/03/08/9dfa9154/index.m3
 中文有码友人,http://z1.ckcdn2002.com:12342/video/m3u8/2020/04/10/8abaf259/index.m3u8
 中文有码私人,http://z1.ckcdn2002.com:12342/video/m3u8/2020/04/10/06895f44/index.m3u8
 中文有码人妻,http://z1.ckcdn2002.com:12342/video/m3u8/2020/04/10/9f08e34a/index.m3u8
@@ -670,4 +661,15 @@ junfang,http://aliboa.dyns.cx:98/uploads/media/oumei/junfang.mp4
 欧美私人表演,http://c1.ckcdn2000.com:12345/video/m3u8/2019/08/25/aa0b2364/index.m3u8
 欧美欲望之眼,http://c1.ckcdn2000.com:12345/video/m3u8/2019/08/19/cda44b60/index.m3u8
 欧美我想劫个色,http://2.thzcdn.com/video/m3u8/2019/03/10/d322fb67/index.m3u8
+002,https://hls4-l3.xvideos-cdn.com/c24801b9180d213a40b282e2f45b6b546cc3af66-1587290606/videos/hls/d4/89/78/d489780b2f0d9f2c39898664c5e33a7d/hls-720p.m3u8
+001,https://hls3-l3.xvideos-cdn.com/7e8143e1593a2cc52190318f115e55387025711d-1587294272/videos/hls/6a/2f/32/6a2f322460ce1a934f4f05892ad23622/hls-720p-e5c13.m3u8
+国产各种道具,https://www.yxsapi.com/20200228/zsGFJbu7/index.m3u8
+日本有码,https://www.yxsapi.com/20200217/b7LRult7/index.m3u8
+新人大学生,https://www.yxsapi.com/20200329/9FiGyCXu/index.m3u8
+温泉旅馆,https://www.yxsapi.com/20200324/b5xg6BNh/index.m3u8
+02,http://aliboa.dyns.cx:98/uploads/media/oumei/02.mp4
+bangshang69,http://aliboa.dyns.cx:98/uploads/media/oumei/%E7%BB%91%E4%B8%8A69%E5%B0%84%E6%B6%B2.mp4
+junfang,http://aliboa.dyns.cx:98/uploads/media/oumei/junfang.mp4
+03,http://aliboa.dyns.cx:98/uploads/media/oumei/03.mp4
+
 
